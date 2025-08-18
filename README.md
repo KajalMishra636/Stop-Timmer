@@ -129,4 +129,5 @@ Stop-Watch/
 
 ## 🖼️ Screenshots
 
-| Main Timer | Lap Recording
+<img width="1810" height="905" alt="image" src="https://github.com/user-attachments/assets/c1119bae-2683-4bb4-a5cf-fc065dd8cd6a" />
+
