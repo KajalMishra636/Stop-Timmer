@@ -1,5 +1,4 @@
-# Stop-Watch
-A stopwatch is a timekeeping device used to measure the precise duration of an event from start to stop.
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Stop+Watch+Pro;A+Modern+Developer-Friendly+Stopwatch+App" alt="Typewriter Heading" />
